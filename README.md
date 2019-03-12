@@ -1,9 +1,9 @@
 # BAITS
 
 ## Recommandation ##
--Install blast and add it to the PATH.<br>
--Install Biopython<br>
--Use Python v2.7<br>
+- Install blast and add it to the PATH.<br>
+- Install Biopython<br>
+- Use Python v2.7<br>
 
 
 ## Usage ##
