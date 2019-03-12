@@ -1,0 +1,3 @@
+TO DELETE BEFORE RUN:
+
+Here put Fasta nucleotides Files named "CDS-nameofindividu" with the same accession as protein for sequences
