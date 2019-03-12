@@ -26,8 +26,8 @@ BAITS_v1.0v??.py "Contig_Gammarus_90_" "./bioM_nucl/contigs_rna_gfoss.fasta"<br>
 
 ## Output ##
 All output table are in TSV format <br>
--liste_pept.tab : List of all peptide found by BAITS <br>
--Table_pept.tab: Table with presence and substitute for reference biomarkers <br>
--Table_pept_ident.tab: Table with the identity score between pairwise alignement area and biomarkers <br>
--Table_pept_tryp.tab: Verification of Tryptic site<br>
--Table_prot.tab: Table with proteins corresponding to peptides found or substitutes <br>
+- liste_pept.tab : List of all peptide found by BAITS <br>
+- Table_pept.tab: Table with presence and substitute for reference biomarkers <br>
+- Table_pept_ident.tab: Table with the identity score between pairwise alignement area and biomarkers <br>
+- Table_pept_tryp.tab: Verification of Tryptic site<br>
+- Table_prot.tab: Table with proteins corresponding to peptides found or substitutes <br>
