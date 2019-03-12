@@ -13,11 +13,12 @@
 <li>Copy protein fasta files in prot_bdd and name it "T_nameofsample"</li>
 <li>Sequence accession must be the same between CDS and protein fasta files for a given sample</li>
 <li>Change prot_pep_BioM.tab with your own peptides. Prot and Nom_files has to be set by the user. ID_contig corresponds to the variable part of the sequence accession from the reference fasta file. <br>
- To execute: <br>
-<li>For windows: <br>
-Python BAITS_v1.0vwindows.py "common part of sequence accession from reference" "reference database accession"<br>
-For MAC:<br>
-Python BAITS_v1.0vmaclinux.py "common part of contigs accession from reference" "reference database accession"<br>
+
+<li> To execute: <br>
+For windows: <br>
+Python BAITS_v1.0vwindows.py "common part of sequence accession from reference" "reference database file location"<br>
+For MAC/LINUX:<br>
+Python BAITS_v1.0vmaclinux.py "common part of contigs accession from reference" "reference database file location"<br>
 Using no parameters in input will use :<br>
 BAITS_v1.0v??.py "Contig_Gammarus_90_" "./bioM_nucl/contigs_rna_gfoss.fasta"<br>
 </li>
