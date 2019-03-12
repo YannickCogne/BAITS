@@ -6,7 +6,8 @@ Install Biopython
 Use Python v2.7
 
 
-##Usage##
+## Usage ##
+
 1- Delete files in repository blast_index; nucl_bdd and prot_bdd.
 2- Copy CDS databases in nucl_bdd and name it "CDS_nameofsample"
 3- Copy protein databases in nucl_bdd and name it "T_nameofsample"
