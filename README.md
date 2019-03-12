@@ -10,7 +10,7 @@
 <ol>
 <li>Delete files in repository blast_index; nucl_bdd and prot_bdd.</li>
 <li>Copy CDS databases in nucl_bdd and name it "CDS_nameofsample"</li>
-<li>Copy protein databases in nucl_bdd and name it "T_nameofsample"</li>
+<li>Copy protein databases in prot_bdd and name it "T_nameofsample"</li>
 <li> Accession must be the same between CDS and protein databases</li>
 <li> Accession must be the same between CDS and protein databases</li>
 <li> Accession must be the same between CDS and protein databases</li>
